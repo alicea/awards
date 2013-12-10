@@ -57,7 +57,7 @@ return array(
 			'host'      => '127.0.0.1',
 			'database'  => 'beyondd-awards',
 			'username'  => 'root',
-			'password'  => 'mysql',
+			'password'  => 'ualue=42',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
